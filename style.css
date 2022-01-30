@@ -1,0 +1,64 @@
+
+.top-container{
+
+    background-color: #7E9181;
+    position: relative;
+    padding-top:  1%;
+    padding-bottom: 0.5%;
+
+    color: #000000;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 15pt;
+
+}
+
+
+.github-icon {
+    
+    
+    display: absolute;
+    height: 32px;
+    
+    
+}
+
+.Linkedin-icon {
+    
+    display: absolute;
+    width: 2.75%;
+    
+}
+
+
+.headshot{
+    display: inline;
+    
+    position: absolute;
+    height: 90%;
+    width: 11%;
+    left: 2%;
+    
+
+}
+
+
+
+.BottomContainer{
+    position: absolute;
+    right: 100px;
+    bottom: 15px;
+    width: 50%;
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16pt;
+    color: #416165;
+    
+}
+
+.footer-email-icon {
+    height: 20px;
+    width: 25px;
+  }
+

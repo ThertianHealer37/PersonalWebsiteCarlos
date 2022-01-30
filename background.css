@@ -1,0 +1,81 @@
+
+body{
+
+    background-color: #e9ecea;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    
+    }
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: #416165;
+}
+a:active{
+    color: darkgray;
+}
+
+/* Bassically top conatiner not for the main page, called normal to defenttiate since it will be used more often*/
+.normal-top-container{
+
+    background-color: #7E9181;
+    position: relative;
+    padding-top:  0.5%;
+    padding-bottom: 0.5%;
+
+    color: #000000;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 50;
+    
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.research{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    margin: .5rem;
+}
+
+.research > h1,
+.IndustralOrganization {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+.research >h1,
+.Development {
+
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+.WhyDoICareTitle{
+
+    text-align: center;
+}
+
+.WhyDoICareParagraph{
+    font-size: 13.5pt;
+    font-family:'Times New Roman', Times, serif;
+
+    margin: 5pt;
+    text-align: justify;
+
+}
